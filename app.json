@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "E-conomy",
+    "slug": "e-conomy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/e-conomy512.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#5757b3"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/e-conomy512.png",
+        "backgroundColor": "#5757b3"
+      }
+    }
+  }
+}
